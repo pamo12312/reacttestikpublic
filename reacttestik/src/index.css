@@ -1,0 +1,42 @@
+.obsah{
+    display: flex;
+    justify-content: space-between;
+}
+.prava{
+display: flex;
+    flex-direction: column;
+    width: 400px;
+
+
+}
+.delivery{
+    color: grey;
+}
+.img{
+    width: 800px;
+    border-style: solid;
+    border-color: yellow;
+}
+.nadpis{
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.popis{
+    color: yellow;
+}
+.item{
+    background-color: lightyellow;
+    border-color: yellow;
+    border-style: solid;
+    margin: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+.cena{
+    border-style: solid;
+    border-color: yellow;
+    background-color: yellow;
+    color:black;
+    font-size: 30px;
+
+}
